@@ -35,6 +35,7 @@ things fit underneath the same design philosohpy. As Bruce Lee would say,
 >You must be shapeless, formless, like water.
 
 Read the full article [here](https://alistapart.com/article/dao)
+
 ![Andrew](https://github.com/andrewtricoche/ebb-flow/blob/master/img/headshot-andrew-tricoche.jpg?raw=true)
 #### About the Author
 Andrew goes to Montserrat College of Art to study design and illustration. He collects mexican handmade mugs and his favorite color is orange.
