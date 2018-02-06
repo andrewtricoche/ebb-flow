@@ -1,4 +1,4 @@
-![Adaptation](https://github.com/andrewtricoche/ebb-flow/blob/master/hero-image-andrew-tricoche.png?raw=true
+![Adaptation](https://github.com/andrewtricoche/ebb-flow/blob/master/hero-image-andrew-tricoche.png?raw=true)
 <h1><a id="Zen_Web_Design_and_Adaptability_4"></a>Zen, Web Design and Adaptability</h1>
 <p>John Allsopp goes on to write about the functions of website design and its seemingly<br>
 simple way of connecting to code. He covers the basics of the use of color, text, imagery,<br>
