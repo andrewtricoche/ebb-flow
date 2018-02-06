@@ -1,3 +1,4 @@
+![adaptability](https://github.com/andrewtricoche/ebb-flow/blob/master/BeLikeWater.png?raw=true)
 # Zen, Web Design and Adaptability
 
 John Allsopp goes on to write about the functions of website design and its seemingly
