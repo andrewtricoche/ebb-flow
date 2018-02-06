@@ -31,6 +31,6 @@ things fit underneath the same design philosohpy. As Bruce Lee would say,</p>
 </blockquote>
 <p>Read the full article <a href="https://alistapart.com/article/dao">here</a></p>
 
-![smile!](https://github.com/andrewtricoche/ebb-flow/blob/master/headshot-andrew-tricoche.jpg?raw=true)
+![smile!](https://github.com/andrewtricoche/ebb-flow/blob/master/img/headshot-andrew-tricoche.jpg?raw=true)
 ### About the Author
 Andrew studies graphic design and illustration at Montserrat College of Art. He collects mexican hand made mugs, and his favorite color is orange.
