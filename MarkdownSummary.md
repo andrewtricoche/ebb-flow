@@ -1,3 +1,10 @@
+
+
+
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>MarkdownSummary.md</title><style></style></head><body id="preview">
+<h3><a id="Andrew_Tricoche_0"></a>Andrew Tricoche</h3>
+<h3><a id="Web_Authoring_1_1"></a>Web Authoring 1</h3>
+<h3><a id="12418_2"></a>1/24/18</h3>
 <h1><a id="Zen_Web_Design_and_Adaptability_4"></a>Zen, Web Design and Adaptability</h1>
 <p>John Allsopp goes on to write about the functions of website design and its seemingly<br>
 simple way of connecting to code. He covers the basics of the use of color, text, imagery,<br>
@@ -29,5 +36,7 @@ things fit underneath the same design philosohpy. As Bruce Lee would say,</p>
 <p>You must be shapeless, formless, like water.</p>
 </blockquote>
 <p>Read the full article <a href="https://alistapart.com/article/dao">here</a></p>
+<h4><a id="About_the_Author_41"></a>About the Author</h4>
+<p>Andrew goes to Montserrat College of Art to study design and illustration. He collects mexican handmade mugs and his favorite color is orange.</p>
 
 </body></html>
