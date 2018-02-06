@@ -1,8 +1,4 @@
-###Andrew Tricoche
-###Web Authoring 1
-###1/24/18
-
-#Zen, Web Design and Adaptability
+# Zen, Web Design and Adaptability
 
 John Allsopp goes on to write about the functions of website design and its seemingly
 simple way of connecting to code. He covers the basics of the use of color, text, imagery,
@@ -10,7 +6,7 @@ layout and code and the philosophy a web designer must have in order to grasp th
 His philosophical references seem to be the most emphasized, however within his philosophy
 resides the equal importance of all subjects.
 
-##Competition
+## Competition
 
 Understanding the internet as a medium and its competitors helps us put the web into
 perspective. The internets parent mediums, television, radio and print, can do things that
@@ -21,7 +17,7 @@ goes on to mention that while this information may seem only like a history less
 does help us realize that not *everything* should be applied to the web as some things 
 just aren't meant for it.
 
-##Control
+## Control
 
 While a sense of control of web design is needed, in some cases we need to let go. Why?
 Because the designer need not shove his own restrictions down the audiences throat as they
