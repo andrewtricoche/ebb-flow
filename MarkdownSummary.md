@@ -1,7 +1,4 @@
-
-<h3><a id="Andrew_Tricoche_0"></a>Andrew Tricoche</h3>
-<h3><a id="Web_Authoring_1_1"></a>Web Authoring 1</h3>
-<h3><a id="12418_2"></a>1/24/18</h3>
+![Adaptation]()
 <h1><a id="Zen_Web_Design_and_Adaptability_4"></a>Zen, Web Design and Adaptability</h1>
 <p>John Allsopp goes on to write about the functions of website design and its seemingly<br>
 simple way of connecting to code. He covers the basics of the use of color, text, imagery,<br>
